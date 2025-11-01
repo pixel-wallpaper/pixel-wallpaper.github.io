@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pixel-wallpaper.github.io/sitemap.xml
